@@ -48,5 +48,6 @@ Leonardo Montes https://www.linkedin.com/in/leonardo-montes-marin-bb71073b/
 
 ### Listado de estudiantes
 ---
+Cristian Camilo Llanos Blandon
 
 Este curso prepara a los estudiantes para enfrentar los retos del desarrollo de software en el mundo empresarial moderno, equipándolos con las habilidades técnicas y de gestión necesarias para sobresalir en la industria.
