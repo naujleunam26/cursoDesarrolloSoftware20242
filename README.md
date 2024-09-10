@@ -52,6 +52,7 @@ codigo  nombre
 6595    john james grisales https://www.linkedin.com/in/james-grisales-410129230/
 18166   luis carlos ortega  https://www.linkedin.com/in/luis-carlos-ortega-0105a241
 16060   Ana Milena Gonzalez 
+27002   Juan Sebastian Londoño G
 ---
 
 Este curso prepara a los estudiantes para enfrentar los retos del desarrollo de software en el mundo empresarial moderno, equipándolos con las habilidades técnicas y de gestión necesarias para sobresalir en la industria.
