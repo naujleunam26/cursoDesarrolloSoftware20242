@@ -55,5 +55,7 @@ codigo  nombre
 27002   Juan Sebastian Londoño G
 7708	David Gustavo Hurtado Ramírez
 14977   Frank Esteban Murcia Cuartas  https://www.linkedin.com/in/frank-murcia-71b5a1242/
+13213   Mauricio Bohórquez Ardila 
+
 
 Este curso prepara a los estudiantes para enfrentar los retos del desarrollo de software en el mundo empresarial moderno, equipándolos con las habilidades técnicas y de gestión necesarias para sobresalir en la industria.
