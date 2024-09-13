@@ -49,6 +49,7 @@ El curso combina teoría y práctica, incluyendo:
 ### Listado de estudiantes
 
 codigo  nombre 
+- 11385   Jose Alexis Mejia
 - 6595    john james grisales https://www.linkedin.com/in/james-grisales-410129230/
 - 18166   luis carlos ortega  https://www.linkedin.com/in/luis-carlos-ortega-0105a241
 - 16060   Ana Milena Gonzalez 
