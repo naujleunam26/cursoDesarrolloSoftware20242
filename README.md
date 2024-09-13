@@ -58,5 +58,6 @@ codigo  nombre
 - 13213   Mauricio Bohórquez Ardila 
 - 5427    Kevin Arlex Osorio Gonzalez
 - 12460   Juan Alejandro Velez Giraldo
+- 26551 Juan Manuel Franco Osorio
 
 Este curso prepara a los estudiantes para enfrentar los retos del desarrollo de software en el mundo empresarial moderno, equipándolos con las habilidades técnicas y de gestión necesarias para sobresalir en la industria.
