@@ -44,14 +44,25 @@ El curso combina teoría y práctica, incluyendo:
 
 
 ### Profesor del curso
-Leonardo Montes https://www.linkedin.com/in/leonardo-montes-marin-bb71073b/
+- Leonardo Montes https://www.linkedin.com/in/leonardo-montes-marin-bb71073b/
 
 ### Listado de estudiantes
 
-codigo  nombre 
-6595    john james grisales https://www.linkedin.com/in/james-grisales-410129230/
-18166   luis carlos ortega  https://www.linkedin.com/in/luis-carlos-ortega-0105a241
-38946   Luis Adolfo Botero  [Linkedin](https://www.linkedin.com/in/luis-adolfo-botero-lópez-25912967)
----
+| Código | Nombre |
+|--------|--------|
+| 11385  | Jose Alexis Mejia |
+| 6595   | John james grisales [LinkedIn](https://www.linkedin.com/in/james-grisales-410129230/) |
+| 18166  | Luis carlos ortega [LinkedIn](https://www.linkedin.com/in/luis-carlos-ortega-0105a241) |
+| 16060  | Ana Milena Gonzalez |
+| 27002  | Juan Sebastian Londoño G |
+| 7708   | David Gustavo Hurtado Ramírez |
+| 14977  | Frank Esteban Murcia Cuartas [LinkedIn](https://www.linkedin.com/in/frank-murcia-71b5a1242/) |
+| 13213  | Mauricio Bohórquez Ardila |
+| 5427   | Kevin Arlex Osorio Gonzalez |
+| 12460  | Juan Alejandro Velez Giraldo |
+| 14646  | Julián Andrés Tabares Jiménez |
+| 22069  | Miguel Angel Vargas |
+| 12345  | Cristian Camilo Llanos Blandon |
+| 38946  | Luis Adolfo Botero [LinkedIn](https://www.linkedin.com/in/luis-adolfo-botero-lópez-25912967) |
 
 Este curso prepara a los estudiantes para enfrentar los retos del desarrollo de software en el mundo empresarial moderno, equipándolos con las habilidades técnicas y de gestión necesarias para sobresalir en la industria.
