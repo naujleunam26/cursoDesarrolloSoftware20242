@@ -48,16 +48,34 @@ El curso combina teoría y práctica, incluyendo:
 
 ### Listado de estudiantes
 
-codigo  nombre 
-- 11385   Jose Alexis Mejia
-- 6595    john james grisales https://www.linkedin.com/in/james-grisales-410129230/
-- 18166   luis carlos ortega  https://www.linkedin.com/in/luis-carlos-ortega-0105a241
-- 16060   Ana Milena Gonzalez 
-- 27002   Juan Sebastian Londoño G
-- 7708	David Gustavo Hurtado Ramírez
-- 14977   Frank Esteban Murcia Cuartas  https://www.linkedin.com/in/frank-murcia-71b5a1242/
-- 13213   Mauricio Bohórquez Ardila 
-- 5427    Kevin Arlex Osorio Gonzalez
-- 12460   Juan Alejandro Velez Giraldo
+ agregar-estudiante-jose-alexis
+| Código | Nombre |
+| 11385  | Jose Alexis Mejia |
+| 6595   | John james grisales https://www.linkedin.com/in/james-grisales-410129230/ | 
+| 18166  | Luis carlos ortega https://www.linkedin.com/in/luis-carlos-ortega-0105a241 |
+| 16060  | Ana Milena Gonzalez |
+| 27002  | Juan Sebastian Londoño G |
+| 7708   | David Gustavo Hurtado Ramírez |
+| 14977  | Frank Esteban Murcia Cuartas https://www.linkedin.com/in/frank-murcia-71b5a1242/ |
+| 13213  | Mauricio Bohórquez Ardila |
+| 5427   | Kevin Arlex Osorio Gonzalez |
+| 12460  | Juan Alejandro Velez Giraldo |
+| 14646  | Julián Andrés Tabares Jiménez |
+| 22069  | Miguel Angel Vargas |
+
+| Código | Nombre |
+| 11385 | Jose Alexis Mejia |
+| 6595 | John james grisales https://www.linkedin.com/in/james-grisales-410129230/ | 
+| 18166 | Luis carlos ortega  https://www.linkedin.com/in/luis-carlos-ortega-0105a241 |
+| 16060 | Ana Milena Gonzalez |
+| 27002 | Juan Sebastian Londoño G |
+| 7708 | David Gustavo Hurtado Ramírez |
+| 14977 | Frank Esteban Murcia Cuartas  https://www.linkedin.com/in/frank-murcia-71b5a1242/ |
+| 13213 | Mauricio Bohórquez Ardila |
+| 5427 | Kevin Arlex Osorio Gonzalez |
+| 12460 | Juan Alejandro Velez Giraldo |
+| 14646 | Julián Andrés Tabares Jiménez |
+| 22069 | Miguel Angel Vargas |
+ main
 
 Este curso prepara a los estudiantes para enfrentar los retos del desarrollo de software en el mundo empresarial moderno, equipándolos con las habilidades técnicas y de gestión necesarias para sobresalir en la industria.
