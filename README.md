@@ -63,5 +63,6 @@ El curso combina teoría y práctica, incluyendo:
 | 14646  | Julián Andrés Tabares Jiménez |
 | 22069  | Miguel Angel Vargas |
 | 26551  | Juan Manuel Franco Osorio |
+| 15434  | Diego Leandro Ramirez Rueda |
 
 Este curso prepara a los estudiantes para enfrentar los retos del desarrollo de software en el mundo empresarial moderno, equipándolos con las habilidades técnicas y de gestión necesarias para sobresalir en la industria.
