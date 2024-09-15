@@ -1,4 +1,4 @@
-# Curso: Desarrollo de Software Empresarial
+}# Curso: Desarrollo de Software Empresarial
 
 ## Universidad de Caldas
 
@@ -62,6 +62,6 @@ El curso combina teoría y práctica, incluyendo:
 | 12460  | Juan Alejandro Velez Giraldo |
 | 14646  | Julián Andrés Tabares Jiménez |
 | 22069  | Miguel Angel Vargas |
-
+| 26551  | Juan Manuel Franco Osorio |
 
 Este curso prepara a los estudiantes para enfrentar los retos del desarrollo de software en el mundo empresarial moderno, equipándolos con las habilidades técnicas y de gestión necesarias para sobresalir en la industria.
