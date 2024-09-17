@@ -66,4 +66,6 @@ El curso combina teoría y práctica, incluyendo:
 | 15434  | Diego Leandro Ramirez Rueda |
 | 18005  | Sebastian Valencia Soto | [LinkedIn](https://www.linkedin.com/in/sebastian-valenciasoto/) |
 | 7007   | sebastian arias |
+| 27217  | Juan Jose Gabelo Vanegas | 
+
 Este curso prepara a los estudiantes para enfrentar los retos del desarrollo de software en el mundo empresarial moderno, equipándolos con las habilidades técnicas y de gestión necesarias para sobresalir en la industria.
