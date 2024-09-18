@@ -1,4 +1,4 @@
-# Curso: Desarrollo de Software Empresarial
+}# Curso: Desarrollo de Software Empresarial
 
 ## Universidad de Caldas
 
@@ -62,7 +62,14 @@ El curso combina teoría y práctica, incluyendo:
 | 12460  | Juan Alejandro Velez Giraldo |
 | 14646  | Julián Andrés Tabares Jiménez |
 | 22069  | Miguel Angel Vargas |
+| 38946  | Luis Adolfo Botero [LinkedIn](https://www.linkedin.com/in/luis-adolfo-botero-lópez-25912967) |
 | 12345  | Cristian Camilo Llanos Blandon |
 | 38946  | Luis Adolfo Botero [LinkedIn](https://www.linkedin.com/in/luis-adolfo-botero-lópez-25912967) |
+| 26551  | Juan Manuel Franco Osorio |
+| 15434  | Diego Leandro Ramirez Rueda |
+| 18005  | Sebastian Valencia Soto | [LinkedIn](https://www.linkedin.com/in/sebastian-valenciasoto/) |
+| 7007   | sebastian arias |
+| 27217  | Juan Jose Gabelo Vanegas | 
+| 27587  | Jesús David Reinoso Gualtero |
 
 Este curso prepara a los estudiantes para enfrentar los retos del desarrollo de software en el mundo empresarial moderno, equipándolos con las habilidades técnicas y de gestión necesarias para sobresalir en la industria.
