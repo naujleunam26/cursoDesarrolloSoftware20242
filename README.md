@@ -71,5 +71,6 @@ El curso combina teoría y práctica, incluyendo:
 | 27587  | Jesús David Reinoso Gualtero |
 | 14977  | Frank Esteban Murcia Cuartas [LinkedIn](https://www.linkedin.com/in/frank-murcia-71b5a1242/) |
 | 7007   | sebastian arias |
+| 4510   | juan manuel ramirez arenas |
 
 Este curso prepara a los estudiantes para enfrentar los retos del desarrollo de software en el mundo empresarial moderno, equipándolos con las habilidades técnicas y de gestión necesarias para sobresalir en la industria.
